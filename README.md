@@ -1,5 +1,5 @@
 
-### Hi there 👋
+### Hello Everyone
 
 
 -  I’m currently working on  [![JAVASCRIPT](https://img.shields.io/badge/-Javascript-yellow)](https://img.shields.io/static/v1?label=) [![CSS](https://img.shields.io/badge/-Css-blue)](https://img.shields.io/badge/-Css-blue) [![HTML](https://img.shields.io/badge/-Html-orange)](https://img.shields.io/badge/-Html-orange)
@@ -9,4 +9,4 @@
 - Graduated from Philosophie Department of Ege University
 
 ---
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=monokai&show_icons=true)
+![https://github.com/celik-arda](https://github-readme-stats.vercel.app/api?username=celik-arda&theme=monokai&show_icons=true)
