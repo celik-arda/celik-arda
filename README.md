@@ -1,12 +1,17 @@
-
-### Hello Everyone
-
-
--  I’m currently working on  [![JAVASCRIPT](https://img.shields.io/badge/-Javascript-yellow)](https://img.shields.io/static/v1?label=) [![CSS](https://img.shields.io/badge/-Css-blue)](https://img.shields.io/badge/-Css-blue) [![HTML](https://img.shields.io/badge/-Html-orange)](https://img.shields.io/badge/-Html-orange)
--  I’m currently learning  [![REACT.JS](https://img.shields.io/badge/-React.js-%2300FFFF)](https://img.shields.io/badge/-React.js-%2300FFFF)
--  I'm using [![Visual Studio Code](https://img.shields.io/badge/--007ACC?logo=visual%20studio%20code&logoColor=ffffff)](https://code.visualstudio.com/) [![git](https://img.shields.io/badge/--F05032?logo=git&logoColor=ffffff)](http://git-scm.com/) [![Discord](https://badgen.net/badge/icon/discord?icon=discord&label)](https://https://discord.com/)
-
-- Graduated from Philosophie Department of Ege University
-
----
-![https://github.com/celik-arda](https://github-readme-stats.vercel.app/api?username=celik-arda&theme=monokai&show_icons=true)
+<h1 align="center">Holla! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Arda</h1><h2 id="about-me">About Me :</h2><ul><li>⚡ I'm a <strong>Jr. Frontend Developer</strong></li><li>🎓 I'm a <strong>self-learner</strong></li><li>🏡 Live in <strong>İzmir / İstanbul</strong></li><li>⚡  Graduated from <strong>Ege University / Philosophie </strong></li></ul><h2 id="what-i-am-good-at-">What I am Using  :</h2><p>
+  <img src="https://img.icons8.com/office/48/000000/react.png">
+  <img src="https://img.icons8.com/fluency/48/typescript--v1.png">
+  <img src="https://img.icons8.com/color/48/000000/firebase.png">
+  <img src="https://img.icons8.com/color/48/000000/sass.png">
+  <img src="https://img.icons8.com/ios-filled/48/f05033/git.png"></p>
+  <p><img src="https://img.icons8.com/color/48/000000/html-5--v1.png"> 
+  <img src="https://img.icons8.com/color/48/000000/css3.png">
+  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"> 
+  <img src="https://img.icons8.com/color-glass/48/bootstrap.png"> 
+  <img src="https://img.icons8.com/color/48/tailwind_css.png"></p><br>
+<img src="https://github-readme-stats.vercel.app/api?username=AnushkaWijegoonawardana97&amp;theme=algolia" alt="AnushkaWijegoonawardana97 GitHub stats"></a> <a href="https://github.com/AnushkaWijegoonawardana97/github-readme-stats">
+   <!-- <h2 id="github-stats-">GitHub Stats 📈 :</h2><br><p><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=AnushkaWijegoonawardana97&amp;theme=algolia&amp;date_format=M j[, Y]" alt="GitHub Streak"></a> <a href="https://github.com/AnushkaWijegoonawardana97/github-readme-stats"><hr/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnushkaWijegoonawardana97&amp;theme=algolia" alt="Top Langs"></a> <a href="https://github.com/WinterWolf97/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=WinterWolf97&amp;theme=algolia" alt="AnushkaWijegoonawardana97 wakatime stats"></a></p>
+  <br>
+  <h2 id="github-thropies-">GitHub Thropies 🏆 :</h2><br><p><a href="https://github.com/AnushkaWijegoonawardana97/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AnushkaWijegoonawardana97" alt="trophy"></a></p><br><h2 id="activity-graph-">Activity Graph 📊 :</h2><br><p><a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://activity-graph.herokuapp.com/graph?username=AnushkaWijegoonawardana97&amp;bg_color=000&amp;color=fff&amp;line=00E676&amp;point=fff&amp;hide_border=true" alt="Ashutosh's github activity graph"></a></p><hr><p>Credit: <a href="https://github.com/AnushkaWijegoonawardana97">AnushkaWijegoonawardana97</a></p><p>Last edited on: 30/06/2022</p>
+<br><h2 id="connect-with-me-">Connect with me ☕ :</h2><br><p><a href="https://www.instagram.com/anushkawijegoonawardana97/"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="@anushkawijegoonawardana97" title="@anushkawijegoonawardana97"></a> <a href="https://www.facebook.com/AnushkaWijegoonawardana97"><img src="https://img.icons8.com/fluency/48/000000/facebook.png" alt="@AnushkaWijegoonawardana97" title="@AnushkaWijegoonawardana97"></a> <a href="https://www.linkedin.com/in/anushkawijegoonawardana97/"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="@anushkawijegoonawardana97" title="@anushkawijegoonawardana97"></a> <a href="https://twitter.com/anushka_wije"><img src="https://img.icons8.com/fluency/48/000000/twitter-squared.png" alt="@anushka_wije" title="@anushka_wije"></a> <a href="tel:0711971313"><img src="https://img.icons8.com/fluency/48/000000/phone-disconnected.png" alt="@0711971313" title="@0711971313"></a> <a href="anushkaduwolka123@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/apple-mail.png" alt="@anushkaduwolka123@gmail.com" title="@anushkaduwolka123@gmail.com"></a></p><br> -->
