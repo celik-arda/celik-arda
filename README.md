@@ -9,7 +9,7 @@
   <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"> 
   <img src="https://img.icons8.com/color-glass/48/bootstrap.png"> 
   <img src="https://img.icons8.com/color/48/tailwind_css.png"></p><br>
-<img src="https://github-readme-stats.vercel.app/api?username=AnushkaWijegoonawardana97&amp;theme=algolia" alt="AnushkaWijegoonawardana97 GitHub stats"></a> <a href="https://github.com/AnushkaWijegoonawardana97/github-readme-stats">
+<img src="https://github-readme-stats.vercel.app/api?username=celik-arda&amp;theme=algolia" alt="celik-arda GitHub stats"></a> <a href="https://github.com/celik-arda/github-readme-stats">
    <!-- <h2 id="github-stats-">GitHub Stats 📈 :</h2><br><p><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=AnushkaWijegoonawardana97&amp;theme=algolia&amp;date_format=M j[, Y]" alt="GitHub Streak"></a> <a href="https://github.com/AnushkaWijegoonawardana97/github-readme-stats"><hr/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnushkaWijegoonawardana97&amp;theme=algolia" alt="Top Langs"></a> <a href="https://github.com/WinterWolf97/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=WinterWolf97&amp;theme=algolia" alt="AnushkaWijegoonawardana97 wakatime stats"></a></p>
   <br>
